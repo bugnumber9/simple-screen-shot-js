@@ -54,3 +54,6 @@ This script has been tested under the following environment:
 **Sample Text File (urls.txt)**
 
 This repository also includes a sample text file `urls.txt` that you can use to test the script.
+
+![image](https://github.com/user-attachments/assets/63b37ff3-d203-4766-bf3e-052f45259ab7)
+
