@@ -35,7 +35,7 @@ This Node.js script simplifies the process by eliminating the need for a separat
 
     node script.js -s urls.txt -w 1280 -h 800 -n url -t 150 -d 2000
 
-This command will capture screenshots of URLs listed in `my_urls.txt` using a viewport size of 1280x800 pixels, filenames based on URLs with a maximum length of 150 characters, and a 2-second delay between processing each URL.
+This command will capture screenshots of URLs listed in `urls.txt` using a viewport size of 1280x800 pixels, filenames based on URLs with a maximum length of 150 characters, and a 2-second delay between processing each URL.
 
 **Output**
 
